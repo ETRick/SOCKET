@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1398321879 source:c:\coding\workspace\codeblocks\ftpserver\main.cpp
+	<stdio.h>
+	<winsock2.h>
+	<iostream>
+
+1398275341 c:\coding\workspace\codeblocks\ftpserver\define.h
+
